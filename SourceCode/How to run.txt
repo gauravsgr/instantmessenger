@@ -1,0 +1,31 @@
+	PROCEDURAL DESCRIPTION TO RUN "GaushIM" INSTANT MESSENGER
+	_________________________________________________________
+
+Step I:-
+	Double-Click the MasterServer.jar to start the "MASTER-SERVER"
+	A dialog box will appear prompting u the successful start of the "MASTERSERVER".
+	Click OK of the dialog box
+	open a new command promp and type  ipconfig  to get the ip address of ur SERVER, CONVEY THAT VALUE TO ALL THOSE WILLING TO CONNECT TO THE CHAT SERVER
+   NOTE: THIS IS TO BE DONE ONLY BY A SINGLE USER WHOSE MACHINE IS TO MADE D CHAT SERVER(Here its u!!!)
+
+Step II:-
+	Double-Click the GaushIM.jar file to open the Login dialog-box
+	Enter Username(d name by which u would be recognized by other users) 
+	Enter Server IP(enter the SERVER IP ADDRESS given to u by the person running the MasterServer)
+	Enter Client IP(enter ur m/c ip address)
+	Enter Port-NO(any integer value greater than 12346 containing only 5 digits)
+	Press Enter or Click on "Push To LAUNCHPAD" button
+
+Step III:-
+	You're logged in n a window appears with the current online users
+	Double-Click on any users name to chat with him/her
+	To send message to all the users in the list at once, enter ur text in the text-field n press enter or click "Send" button
+
+
+	***************************************************************************************************************************
+	***************************************************************************************************************************
+	**  Hope u find the application interesting n easy to use. For any queries feel free to mail me at gaurav.sgr@gmail.com  **
+	**															 **
+	***************************************************************************************************************************
+	***************************************************************************************************************************
+
